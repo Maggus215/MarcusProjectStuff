@@ -3,6 +3,18 @@
     "username": "Rejokyo",
     "pin": "2505",
     "balance": 5
+    "transactions": [
+      {
+        "type": "received",
+        "amount": 7,
+        "date": "28.6.2023"
+      },
+      {
+        "type": "removed",
+        "amount": 2,
+        "date": "29.6.2023"
+      }
+    ]
   },
   {
     "username": "Marcus",
