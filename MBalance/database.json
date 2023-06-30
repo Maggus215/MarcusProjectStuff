@@ -1,14 +1,17 @@
 [
   {
     "username": "Rejokyo",
-    "pin": "2505"
+    "pin": "2505",
+    "balance": 0
   },
   {
     "username": "Marcus",
-    "pin": "2305"
+    "pin": "2305",
+    "balance": 0
   },
   {
     "username": "Sahil",
-    "pin": "0108"
+    "pin": "0108",
+    "balance": 0
   }
 ]
