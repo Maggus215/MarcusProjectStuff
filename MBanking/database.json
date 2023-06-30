@@ -1,0 +1,29 @@
+[
+  {
+    "username": "Rejokyo",
+    "pin": "2505",
+    "balance": 5,
+    "transactions": [
+      {
+        "type": "received",
+        "amount": 7,
+        "date": "28.6.2023"
+      },
+      {
+        "type": "removed",
+        "amount": 2,
+        "date": "29.6.2023"
+      }
+    ]
+  },
+  {
+    "username": "Marcus",
+    "pin": "2305",
+    "balance": 0
+  },
+  {
+    "username": "Sahil",
+    "pin": "0108",
+    "balance": 0
+  }
+]
